@@ -53,7 +53,7 @@ type ItemsQueryFilter struct {
 }
 
 type ItemsQueryRequest struct {
-	//UserId         string   `json:"user_id"`
+	UserId         string   `json:"user_id"`
 	Origin         Origin   `json:"origin,omitempty"`
 	Radius         int      `json:"radius,omitempty"`
 	PageSize       int      `json:"page_size,omitempty"`
@@ -122,7 +122,7 @@ func (c *Client) GetItem(itemId string) (*Item, error) {
 func (c *Client) GetItems(query *ItemsQueryFilter) (*ItemsQueryResult, error) {
 	getItemsUrl := c.makeUrl(ItemEndpoint)
 	body := ItemsQueryRequest{
-		//UserId:         c.userId,
+		UserId:         c.userId,
 		Origin:         Origin{query.Latitude, query.Longitude},
 		Radius:         query.Radius,
 		PageSize:       query.PageSize,
