@@ -1,0 +1,646 @@
+{
+  "mobile_bucket": {
+    "filler_type": "Favorites",
+    "title": "Your favourites",
+    "description": "",
+    "items": [
+      {
+        "item": {
+          "item_id": "56140",
+          "sales_taxes": [
+            {
+              "tax_description": "VAT",
+              "tax_percentage": 9.0000
+            }
+          ],
+          "tax_amount": {
+            "code": "EUR",
+            "minor_units": 33,
+            "decimals": 2
+          },
+          "price_excluding_taxes": {
+            "code": "EUR",
+            "minor_units": 399,
+            "decimals": 2
+          },
+          "price_including_taxes": {
+            "code": "EUR",
+            "minor_units": 399,
+            "decimals": 2
+          },
+          "value_excluding_taxes": {
+            "code": "EUR",
+            "minor_units": 1199,
+            "decimals": 2
+          },
+          "value_including_taxes": {
+            "code": "EUR",
+            "minor_units": 1199,
+            "decimals": 2
+          },
+          "taxation_policy": "PRICE_INCLUDES_TAXES",
+          "show_sales_taxes": false,
+          "item_price": {
+            "code": "EUR",
+            "minor_units": 399,
+            "decimals": 2
+          },
+          "item_value": {
+            "code": "EUR",
+            "minor_units": 1199,
+            "decimals": 2
+          },
+          "cover_picture": {
+            "picture_id": "95625",
+            "current_url": "https://images.tgtg.ninja/item/cover/835e4aa7-5141-44d2-9a1d-df4459a18f50.jpg",
+            "is_automatically_created": false
+          },
+          "logo_picture": {
+            "picture_id": "884693",
+            "current_url": "https://images.tgtg.ninja/storebulkimport/logo/96910/0475b729-d4d2-45ee-bb78-4dadd470078e.png",
+            "is_automatically_created": false
+          },
+          "name": "Verrassingspakket Ontbijt",
+          "description": "Jouw Ontbijtpakket zit boordevol heerlijke en verse lekkernijen uit ons ontbijtbuffet. Vers verpakt door onze chef en elke dag is weer een verrassing!",
+          "food_handling_instructions": "",
+          "can_user_supply_packaging": false,
+          "packaging_option": "ADDITIONAL_CHARGES_MANDATED",
+          "collection_info": "Meld je bij de receptie om het pakket op te halen!",
+          "diet_categories": [],
+          "item_category": "MEAL",
+          "buffet": true,
+          "badges": [
+            {
+              "badge_type": "OVERALL_RATING_TRUST_SCORE",
+              "rating_group": "LIKED",
+              "percentage": 92,
+              "user_count": 225,
+              "month_count": 6
+            },
+            {
+              "badge_type": "SERVICE_RATING_SCORE",
+              "rating_group": "LOVED",
+              "percentage": 89,
+              "user_count": 225,
+              "month_count": 6
+            }
+          ],
+          "positive_rating_reasons": [
+            "POSITIVE_FEEDBACK_FRIENDLY_STAFF",
+            "POSITIVE_FEEDBACK_GREAT_QUANTITY",
+            "POSITIVE_FEEDBACK_GREAT_VALUE",
+            "POSITIVE_FEEDBACK_QUICK_COLLECTION",
+            "POSITIVE_FEEDBACK_DELICIOUS_FOOD",
+            "POSITIVE_FEEDBACK_GREAT_VARIETY"
+          ],
+          "average_overall_rating": {
+            "average_overall_rating": 4.19811320754717,
+            "rating_count": 212,
+            "month_count": 6
+          },
+          "favorite_count": 0
+        },
+        "store": {
+          "store_id": "53390",
+          "store_name": "The Social Hub",
+          "branch": "Amsterdam City",
+          "description": "Bij The Social Hub geloven we dat een betere samenleving ontstaat wanneer mensen met verschillende achtergronden, ideeën, en talenten samenkomen. Verbonden door deze mindset draagt onze TSH-community graag een steentje bij tot een mooiere toekomst voor zowel mens als planeet.",
+          "website": "https://www.thestudenthotel.com/",
+          "store_location": {
+            "address": {
+              "country": {
+                "iso_code": "NL",
+                "name": "Netherlands"
+              },
+              "address_line": "Wibautstraat 129, 1091 GL Amsterdam, Nederland",
+              "city": "",
+              "postal_code": ""
+            },
+            "location": {
+              "longitude": 4.913317,
+              "latitude": 52.354685
+            }
+          },
+          "logo_picture": {
+            "picture_id": "884693",
+            "current_url": "https://images.tgtg.ninja/storebulkimport/logo/96910/0475b729-d4d2-45ee-bb78-4dadd470078e.png",
+            "is_automatically_created": false
+          },
+          "store_time_zone": "Europe/Amsterdam",
+          "hidden": false,
+          "favorite_count": 0,
+          "we_care": false,
+          "distance": 2.99651690093202,
+          "cover_picture": {
+            "picture_id": "95625",
+            "current_url": "https://images.tgtg.ninja/item/cover/835e4aa7-5141-44d2-9a1d-df4459a18f50.jpg",
+            "is_automatically_created": false
+          },
+          "is_manufacturer": false
+        },
+        "display_name": "The Social Hub - Amsterdam City (Verrassingspakket Ontbijt)",
+        "pickup_interval": {
+          "start": "2023-10-06T08:45:00Z",
+          "end": "2023-10-06T09:00:00Z"
+        },
+        "pickup_location": {
+          "address": {
+            "country": {
+              "iso_code": "NL",
+              "name": "Netherlands"
+            },
+            "address_line": "Wibautstraat 129, 1091 GL Amsterdam, Nederland",
+            "city": "",
+            "postal_code": ""
+          },
+          "location": {
+            "longitude": 4.913317,
+            "latitude": 52.354685
+          }
+        },
+        "purchase_end": "2023-10-06T09:00:00Z",
+        "items_available": 3,
+        "distance": 2.99651690093202,
+        "favorite": true,
+        "in_sales_window": true,
+        "new_item": false,
+        "item_type": "MAGIC_BAG",
+        "matches_filters": true
+      },
+      {
+        "item": {
+          "item_id": "1063134",
+          "sales_taxes": [
+            {
+              "tax_description": "BTW",
+              "tax_percentage": 9.0000
+            }
+          ],
+          "tax_amount": {
+            "code": "EUR",
+            "minor_units": 41,
+            "decimals": 2
+          },
+          "price_excluding_taxes": {
+            "code": "EUR",
+            "minor_units": 499,
+            "decimals": 2
+          },
+          "price_including_taxes": {
+            "code": "EUR",
+            "minor_units": 499,
+            "decimals": 2
+          },
+          "value_excluding_taxes": {
+            "code": "EUR",
+            "minor_units": 1499,
+            "decimals": 2
+          },
+          "value_including_taxes": {
+            "code": "EUR",
+            "minor_units": 1499,
+            "decimals": 2
+          },
+          "taxation_policy": "PRICE_INCLUDES_TAXES",
+          "show_sales_taxes": false,
+          "item_price": {
+            "code": "EUR",
+            "minor_units": 499,
+            "decimals": 2
+          },
+          "item_value": {
+            "code": "EUR",
+            "minor_units": 1499,
+            "decimals": 2
+          },
+          "cover_picture": {
+            "picture_id": "981453",
+            "current_url": "https://images.tgtg.ninja/itembulkimport/cover/124734/76fcb6e2-4704-489f-9b45-34c122b41f77.png",
+            "is_automatically_created": false
+          },
+          "logo_picture": {
+            "picture_id": "983055",
+            "current_url": "https://images.tgtg.ninja/storebulkimport/logo/124740/fa332718-e3dc-4cde-bf0d-afddfc1d379e.jpg",
+            "is_automatically_created": false
+          },
+          "name": "Snackpakket",
+          "description": "Red dit Snackpakket en geniet van de dagverse legendarische FEBO snacks! Verwacht 5 snacks per Box. Let op: het kan om een en dezelfde producten gaan.",
+          "food_handling_instructions": "",
+          "can_user_supply_packaging": false,
+          "packaging_option": "BAG_ALLOWED",
+          "collection_info": "Bij het ophalen moet je even wachten, dat komt doordat de snacks voor jou ter plaatse worden gebakken.",
+          "diet_categories": [],
+          "item_category": "MEAL",
+          "buffet": false,
+          "badges": [
+            {
+              "badge_type": "SERVICE_RATING_SCORE",
+              "rating_group": "LIKED",
+              "percentage": 78,
+              "user_count": 64,
+              "month_count": 6
+            }
+          ],
+          "positive_rating_reasons": [
+            "POSITIVE_FEEDBACK_FRIENDLY_STAFF",
+            "POSITIVE_FEEDBACK_GREAT_QUANTITY",
+            "POSITIVE_FEEDBACK_DELICIOUS_FOOD",
+            "POSITIVE_FEEDBACK_GREAT_VALUE",
+            "POSITIVE_FEEDBACK_QUICK_COLLECTION",
+            "POSITIVE_FEEDBACK_GREAT_VARIETY"
+          ],
+          "average_overall_rating": {
+            "average_overall_rating": 3.2459016393442623,
+            "rating_count": 61,
+            "month_count": 6
+          },
+          "favorite_count": 0
+        },
+        "store": {
+          "store_id": "975521",
+          "store_name": "FEBO",
+          "branch": "Amsterdam - Galileiplantsoen",
+          "description": "FEBO! Iedere dag verse snacks uit onze eigen Amsterdamse keuken. Onze kroketten, Vitaaltjes, kip, bami en Grillburgers worden nooit ingevroren, zonde om weg te gooien natuurlijk! Help je ons mee?",
+          "website": "https://www.febo.nl/",
+          "store_location": {
+            "address": {
+              "country": {
+                "iso_code": "NL",
+                "name": "Netherlands"
+              },
+              "address_line": "Galileïplantsoen 46, 1098 NB Amsterdam, Nederland",
+              "city": "",
+              "postal_code": ""
+            },
+            "location": {
+              "longitude": 4.9399303,
+              "latitude": 52.3534878
+            }
+          },
+          "logo_picture": {
+            "picture_id": "983055",
+            "current_url": "https://images.tgtg.ninja/storebulkimport/logo/124740/fa332718-e3dc-4cde-bf0d-afddfc1d379e.jpg",
+            "is_automatically_created": false
+          },
+          "store_time_zone": "Europe/Amsterdam",
+          "hidden": false,
+          "favorite_count": 0,
+          "we_care": false,
+          "distance": 1.1880920349918527,
+          "cover_picture": {
+            "picture_id": "981453",
+            "current_url": "https://images.tgtg.ninja/itembulkimport/cover/124734/76fcb6e2-4704-489f-9b45-34c122b41f77.png",
+            "is_automatically_created": false
+          },
+          "is_manufacturer": false
+        },
+        "display_name": "FEBO - Amsterdam - Galileiplantsoen (Snackpakket)",
+        "pickup_interval": {
+          "start": "2023-10-05T14:00:00Z",
+          "end": "2023-10-05T19:00:00Z"
+        },
+        "pickup_location": {
+          "address": {
+            "country": {
+              "iso_code": "NL",
+              "name": "Netherlands"
+            },
+            "address_line": "Galileïplantsoen 46, 1098 NB Amsterdam, Nederland",
+            "city": "",
+            "postal_code": ""
+          },
+          "location": {
+            "longitude": 4.9399303,
+            "latitude": 52.3534878
+          }
+        },
+        "purchase_end": "2023-10-05T19:00:00Z",
+        "items_available": 0,
+        "sold_out_at": "2023-10-05T00:20:18Z",
+        "distance": 1.1880920349918527,
+        "favorite": true,
+        "in_sales_window": true,
+        "new_item": false,
+        "item_type": "MAGIC_BAG",
+        "matches_filters": true
+      },
+      {
+        "item": {
+          "item_id": "247342",
+          "sales_taxes": [
+            {
+              "tax_description": "VAT",
+              "tax_percentage": 9.0000
+            }
+          ],
+          "tax_amount": {
+            "code": "EUR",
+            "minor_units": 41,
+            "decimals": 2
+          },
+          "price_excluding_taxes": {
+            "code": "EUR",
+            "minor_units": 499,
+            "decimals": 2
+          },
+          "price_including_taxes": {
+            "code": "EUR",
+            "minor_units": 499,
+            "decimals": 2
+          },
+          "value_excluding_taxes": {
+            "code": "EUR",
+            "minor_units": 1499,
+            "decimals": 2
+          },
+          "value_including_taxes": {
+            "code": "EUR",
+            "minor_units": 1499,
+            "decimals": 2
+          },
+          "taxation_policy": "PRICE_INCLUDES_TAXES",
+          "show_sales_taxes": false,
+          "item_price": {
+            "code": "EUR",
+            "minor_units": 499,
+            "decimals": 2
+          },
+          "item_value": {
+            "code": "EUR",
+            "minor_units": 1499,
+            "decimals": 2
+          },
+          "cover_picture": {
+            "picture_id": "222798",
+            "current_url": "https://images.tgtg.ninja/item/cover/422f04e7-ed2c-4cdb-8270-d56f177da2eb.jpg",
+            "is_automatically_created": false
+          },
+          "logo_picture": {
+            "picture_id": "222797",
+            "current_url": "https://images.tgtg.ninja/item/logo/b23afd45-c43f-423f-9df1-e5eaf012374f.jpg",
+            "is_automatically_created": false
+          },
+          "name": "Verrassingspakket",
+          "description": "In dit Verrassingspakket vind je een een mix van producten die de vorige dag over zijn gebleven. Nog net zo lekker!\n\nTip: Stop de broden even kort op 180º C in de oven om ze 'op te piepen' om nieuw leven in te blazen.\nHet brood wordt niet gesneden voor je!",
+          "food_handling_instructions": "",
+          "can_user_supply_packaging": false,
+          "packaging_option": "ADDITIONAL_CHARGES_MANDATED",
+          "collection_info": "",
+          "diet_categories": [],
+          "item_category": "BAKED_GOODS",
+          "buffet": false,
+          "badges": [
+            {
+              "badge_type": "SERVICE_RATING_SCORE",
+              "rating_group": "LOVED",
+              "percentage": 92,
+              "user_count": 330,
+              "month_count": 6
+            },
+            {
+              "badge_type": "OVERALL_RATING_TRUST_SCORE",
+              "rating_group": "LIKED",
+              "percentage": 88,
+              "user_count": 330,
+              "month_count": 6
+            }
+          ],
+          "positive_rating_reasons": [
+            "POSITIVE_FEEDBACK_GREAT_VALUE",
+            "POSITIVE_FEEDBACK_GREAT_QUANTITY",
+            "POSITIVE_FEEDBACK_FRIENDLY_STAFF",
+            "POSITIVE_FEEDBACK_DELICIOUS_FOOD",
+            "POSITIVE_FEEDBACK_QUICK_COLLECTION",
+            "POSITIVE_FEEDBACK_GREAT_VARIETY"
+          ],
+          "average_overall_rating": {
+            "average_overall_rating": 4.096774193548387,
+            "rating_count": 310,
+            "month_count": 6
+          },
+          "favorite_count": 0
+        },
+        "store": {
+          "store_id": "9021",
+          "store_name": "Vlaamsch Broodhuys",
+          "branch": "Middenweg",
+          "description": "In 1996 bakten en bezorgden Dimitri en Diante samen nog al het brood.\nMet manden vol zuurdesembrood gingen zij langs bij de betere Nederlandse restaurants. Vandaag de dag staan zij nog steeds met een onverminderde energie aan het hoofd van het Vlaamsch Broodhuys.",
+          "website": "https://www.vlaamschbroodhuys.nl/",
+          "store_location": {
+            "address": {
+              "country": {
+                "iso_code": "NL",
+                "name": "Netherlands"
+              },
+              "address_line": "Middenweg 43, 1097 AL Amsterdam, Nederland",
+              "city": "",
+              "postal_code": ""
+            },
+            "location": {
+              "longitude": 4.9297955,
+              "latitude": 52.3544343
+            }
+          },
+          "logo_picture": {
+            "picture_id": "107636",
+            "current_url": "https://images.tgtg.ninja/store/75ff96d0-b316-4d76-a725-94fb3a4dfc1e.jpg",
+            "is_automatically_created": false
+          },
+          "store_time_zone": "Europe/Amsterdam",
+          "hidden": false,
+          "favorite_count": 0,
+          "we_care": false,
+          "distance": 1.8770776460057583,
+          "cover_picture": {
+            "picture_id": "222798",
+            "current_url": "https://images.tgtg.ninja/item/cover/422f04e7-ed2c-4cdb-8270-d56f177da2eb.jpg",
+            "is_automatically_created": false
+          },
+          "is_manufacturer": false
+        },
+        "display_name": "Vlaamsch Broodhuys - Middenweg (Verrassingspakket)",
+        "pickup_location": {
+          "address": {
+            "country": {
+              "iso_code": "NL",
+              "name": "Netherlands"
+            },
+            "address_line": "Middenweg 43, 1097 AL Amsterdam, Nederland",
+            "city": "",
+            "postal_code": ""
+          },
+          "location": {
+            "longitude": 4.9297955,
+            "latitude": 52.3544343
+          }
+        },
+        "items_available": 0,
+        "distance": 1.8770776460057583,
+        "favorite": true,
+        "in_sales_window": false,
+        "new_item": false,
+        "item_type": "MAGIC_BAG",
+        "matches_filters": true
+      },
+      {
+        "item": {
+          "item_id": "1080205",
+          "sales_taxes": [
+            {
+              "tax_description": "BTW",
+              "tax_percentage": 9.0000
+            }
+          ],
+          "tax_amount": {
+            "code": "EUR",
+            "minor_units": 41,
+            "decimals": 2
+          },
+          "price_excluding_taxes": {
+            "code": "EUR",
+            "minor_units": 500,
+            "decimals": 2
+          },
+          "price_including_taxes": {
+            "code": "EUR",
+            "minor_units": 500,
+            "decimals": 2
+          },
+          "value_excluding_taxes": {
+            "code": "EUR",
+            "minor_units": 1500,
+            "decimals": 2
+          },
+          "value_including_taxes": {
+            "code": "EUR",
+            "minor_units": 1500,
+            "decimals": 2
+          },
+          "taxation_policy": "PRICE_INCLUDES_TAXES",
+          "show_sales_taxes": false,
+          "item_price": {
+            "code": "EUR",
+            "minor_units": 500,
+            "decimals": 2
+          },
+          "item_value": {
+            "code": "EUR",
+            "minor_units": 1500,
+            "decimals": 2
+          },
+          "cover_picture": {
+            "picture_id": "992262",
+            "current_url": "https://images.tgtg.ninja/itembulkimport/cover/127796/ad26ed7a-3911-4253-a3d5-099c70589e34.jpg",
+            "is_automatically_created": false
+          },
+          "logo_picture": {
+            "picture_id": "704243",
+            "current_url": "https://images.tgtg.ninja/storebulkimport/logo/59300/18cc58ce-2514-4ced-83c0-9f5eb25440b3.jpg",
+            "is_automatically_created": false
+          },
+          "name": "Gebakpakket",
+          "description": "Wie aan HEMA denkt, denkt aan gebak! Op een rustige dag blijft er wel eens wat over van al die lekkernijen en dat is natuurlijk zonde! Dus snel je naar jouw HEMA en red dat lekkers!\nLet op! Omdat gebak soms alsnog uitverkoopt kan het zijn dat je pakket een uur voor ophaaltijd geannuleerd wordt.",
+          "can_user_supply_packaging": false,
+          "packaging_option": "MUST_BRING_BAG",
+          "collection_info": "Let op! Omdat gebak soms alsnog uitverkoopt kan het zijn dat je pakket een uur voor ophaaltijd geannuleerd wordt.",
+          "diet_categories": [],
+          "item_category": "BAKED_GOODS",
+          "buffet": false,
+          "badges": [
+            {
+              "badge_type": "OVERALL_RATING_TRUST_SCORE",
+              "rating_group": "LOVED",
+              "percentage": 90,
+              "user_count": 248,
+              "month_count": 6
+            },
+            {
+              "badge_type": "SERVICE_RATING_SCORE",
+              "rating_group": "LOVED",
+              "percentage": 95,
+              "user_count": 248,
+              "month_count": 6
+            }
+          ],
+          "positive_rating_reasons": [
+            "POSITIVE_FEEDBACK_GREAT_VALUE",
+            "POSITIVE_FEEDBACK_GREAT_QUANTITY",
+            "POSITIVE_FEEDBACK_DELICIOUS_FOOD",
+            "POSITIVE_FEEDBACK_FRIENDLY_STAFF",
+            "POSITIVE_FEEDBACK_QUICK_COLLECTION",
+            "POSITIVE_FEEDBACK_GREAT_VARIETY"
+          ],
+          "average_overall_rating": {
+            "average_overall_rating": 4.524193548387097,
+            "rating_count": 248,
+            "month_count": 6
+          },
+          "favorite_count": 0
+        },
+        "store": {
+          "store_id": "701006",
+          "store_name": "HEMA",
+          "branch": "Amsterdam, Oostpoort",
+          "description": "HEMA heeft een ruim assortiment aan verse etenswaren in restaurants, take-aways en versafdeling. Hun ambitie is om in 2022 voedselderving met 15% te verminderen ten opzichte van 2017. Daarom proberen ze eerst vraag en aanbod zo goed mogelijk op elkaar af te stemmen. Maar er blijft altijd wel iets over, om dat eten van de prullenbak te redden hebben ze jou nodig!",
+          "website": "https://www.hema.nl/",
+          "store_location": {
+            "address": {
+              "country": {
+                "iso_code": "NL",
+                "name": "Netherlands"
+              },
+              "address_line": "Waldenlaan 12, 1093 NH Amsterdam, Netherlands",
+              "city": "",
+              "postal_code": ""
+            },
+            "location": {
+              "longitude": 4.9292527,
+              "latitude": 52.3567309
+            }
+          },
+          "logo_picture": {
+            "picture_id": "704243",
+            "current_url": "https://images.tgtg.ninja/storebulkimport/logo/59300/18cc58ce-2514-4ced-83c0-9f5eb25440b3.jpg",
+            "is_automatically_created": false
+          },
+          "store_time_zone": "Europe/Amsterdam",
+          "hidden": false,
+          "favorite_count": 0,
+          "we_care": false,
+          "distance": 1.9398786431465407,
+          "cover_picture": {
+            "picture_id": "992262",
+            "current_url": "https://images.tgtg.ninja/itembulkimport/cover/127796/ad26ed7a-3911-4253-a3d5-099c70589e34.jpg",
+            "is_automatically_created": false
+          },
+          "is_manufacturer": false
+        },
+        "display_name": "HEMA - Amsterdam, Oostpoort (Gebakpakket)",
+        "pickup_location": {
+          "address": {
+            "country": {
+              "iso_code": "NL",
+              "name": "Netherlands"
+            },
+            "address_line": "Waldenlaan 12, 1093 NH Amsterdam, Netherlands",
+            "city": "",
+            "postal_code": ""
+          },
+          "location": {
+            "longitude": 4.9292527,
+            "latitude": 52.3567309
+          }
+        },
+        "items_available": 0,
+        "distance": 1.9398786431465407,
+        "favorite": true,
+        "in_sales_window": false,
+        "new_item": false,
+        "item_type": "MAGIC_BAG",
+        "matches_filters": true
+      }
+    ],
+    "bucket_type": "ITEM",
+    "display_type": "FAVORITES"
+  }
+}

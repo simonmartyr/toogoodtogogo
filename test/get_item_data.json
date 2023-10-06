@@ -1,0 +1,290 @@
+{
+  "item": {
+    "item_id": "1063134",
+    "sales_taxes": [
+      {
+        "tax_description": "BTW",
+        "tax_percentage": 9.0000
+      }
+    ],
+    "tax_amount": {
+      "code": "EUR",
+      "minor_units": 41,
+      "decimals": 2
+    },
+    "price_excluding_taxes": {
+      "code": "EUR",
+      "minor_units": 499,
+      "decimals": 2
+    },
+    "price_including_taxes": {
+      "code": "EUR",
+      "minor_units": 499,
+      "decimals": 2
+    },
+    "value_excluding_taxes": {
+      "code": "EUR",
+      "minor_units": 1499,
+      "decimals": 2
+    },
+    "value_including_taxes": {
+      "code": "EUR",
+      "minor_units": 1499,
+      "decimals": 2
+    },
+    "taxation_policy": "PRICE_INCLUDES_TAXES",
+    "show_sales_taxes": false,
+    "item_price": {
+      "code": "EUR",
+      "minor_units": 499,
+      "decimals": 2
+    },
+    "item_value": {
+      "code": "EUR",
+      "minor_units": 1499,
+      "decimals": 2
+    },
+    "cover_picture": {
+      "picture_id": "981453",
+      "current_url": "https://images.tgtg.ninja/itembulkimport/cover/124734/76fcb6e2-4704-489f-9b45-34c122b41f77.png",
+      "is_automatically_created": false
+    },
+    "logo_picture": {
+      "picture_id": "983055",
+      "current_url": "https://images.tgtg.ninja/storebulkimport/logo/124740/fa332718-e3dc-4cde-bf0d-afddfc1d379e.jpg",
+      "is_automatically_created": false
+    },
+    "name": "Snackpakket",
+    "description": "Red dit Snackpakket en geniet van de dagverse legendarische FEBO snacks! Verwacht 5 snacks per Box. Let op: het kan om een en dezelfde producten gaan.",
+    "food_handling_instructions": "",
+    "can_user_supply_packaging": false,
+    "packaging_option": "BAG_ALLOWED",
+    "collection_info": "Bij het ophalen moet je even wachten, dat komt doordat de snacks voor jou ter plaatse worden gebakken.",
+    "diet_categories": [],
+    "item_category": "MEAL",
+    "buffet": false,
+    "badges": [
+      {
+        "badge_type": "SERVICE_RATING_SCORE",
+        "rating_group": "LIKED",
+        "percentage": 78,
+        "user_count": 65,
+        "month_count": 6
+      }
+    ],
+    "positive_rating_reasons": [
+      "POSITIVE_FEEDBACK_FRIENDLY_STAFF",
+      "POSITIVE_FEEDBACK_GREAT_QUANTITY",
+      "POSITIVE_FEEDBACK_GREAT_VALUE",
+      "POSITIVE_FEEDBACK_DELICIOUS_FOOD",
+      "POSITIVE_FEEDBACK_QUICK_COLLECTION",
+      "POSITIVE_FEEDBACK_GREAT_VARIETY"
+    ],
+    "average_overall_rating": {
+      "average_overall_rating": 3.2419354838709675,
+      "rating_count": 62,
+      "month_count": 6
+    },
+    "allergens_info": {
+      "shown_on_checkout": false
+    },
+    "favorite_count": 0
+  },
+  "store": {
+    "store_id": "975521",
+    "store_name": "FEBO",
+    "branch": "Amsterdam - Galileiplantsoen",
+    "description": "FEBO! Iedere dag verse snacks uit onze eigen Amsterdamse keuken. Onze kroketten, Vitaaltjes, kip, bami en Grillburgers worden nooit ingevroren, zonde om weg te gooien natuurlijk! Help je ons mee?",
+    "website": "https://www.febo.nl/",
+    "store_location": {
+      "address": {
+        "country": {
+          "iso_code": "NL",
+          "name": "Netherlands"
+        },
+        "address_line": "Galileïplantsoen 46, 1098 NB Amsterdam, Nederland",
+        "city": "",
+        "postal_code": ""
+      },
+      "location": {
+        "longitude": 4.9399303,
+        "latitude": 52.3534878
+      }
+    },
+    "logo_picture": {
+      "picture_id": "983055",
+      "current_url": "https://images.tgtg.ninja/storebulkimport/logo/124740/fa332718-e3dc-4cde-bf0d-afddfc1d379e.jpg",
+      "is_automatically_created": false
+    },
+    "store_time_zone": "Europe/Amsterdam",
+    "hidden": false,
+    "favorite_count": 0,
+    "items": [
+      {
+        "item": {
+          "item_id": "1063134",
+          "sales_taxes": [
+            {
+              "tax_description": "BTW",
+              "tax_percentage": 9.0000
+            }
+          ],
+          "tax_amount": {
+            "code": "EUR",
+            "minor_units": 41,
+            "decimals": 2
+          },
+          "price_excluding_taxes": {
+            "code": "EUR",
+            "minor_units": 499,
+            "decimals": 2
+          },
+          "price_including_taxes": {
+            "code": "EUR",
+            "minor_units": 499,
+            "decimals": 2
+          },
+          "value_excluding_taxes": {
+            "code": "EUR",
+            "minor_units": 1499,
+            "decimals": 2
+          },
+          "value_including_taxes": {
+            "code": "EUR",
+            "minor_units": 1499,
+            "decimals": 2
+          },
+          "taxation_policy": "PRICE_INCLUDES_TAXES",
+          "show_sales_taxes": false,
+          "item_price": {
+            "code": "EUR",
+            "minor_units": 499,
+            "decimals": 2
+          },
+          "item_value": {
+            "code": "EUR",
+            "minor_units": 1499,
+            "decimals": 2
+          },
+          "cover_picture": {
+            "picture_id": "981453",
+            "current_url": "https://images.tgtg.ninja/itembulkimport/cover/124734/76fcb6e2-4704-489f-9b45-34c122b41f77.png",
+            "is_automatically_created": false
+          },
+          "logo_picture": {
+            "picture_id": "983055",
+            "current_url": "https://images.tgtg.ninja/storebulkimport/logo/124740/fa332718-e3dc-4cde-bf0d-afddfc1d379e.jpg",
+            "is_automatically_created": false
+          },
+          "name": "Snackpakket",
+          "description": "Red dit Snackpakket en geniet van de dagverse legendarische FEBO snacks! Verwacht 5 snacks per Box. Let op: het kan om een en dezelfde producten gaan.",
+          "food_handling_instructions": "",
+          "can_user_supply_packaging": false,
+          "packaging_option": "BAG_ALLOWED",
+          "collection_info": "Bij het ophalen moet je even wachten, dat komt doordat de snacks voor jou ter plaatse worden gebakken.",
+          "diet_categories": [],
+          "item_category": "MEAL",
+          "buffet": false,
+          "badges": [
+            {
+              "badge_type": "SERVICE_RATING_SCORE",
+              "rating_group": "LIKED",
+              "percentage": 78,
+              "user_count": 65,
+              "month_count": 6
+            }
+          ],
+          "positive_rating_reasons": [
+            "POSITIVE_FEEDBACK_FRIENDLY_STAFF",
+            "POSITIVE_FEEDBACK_GREAT_QUANTITY",
+            "POSITIVE_FEEDBACK_GREAT_VALUE",
+            "POSITIVE_FEEDBACK_DELICIOUS_FOOD",
+            "POSITIVE_FEEDBACK_QUICK_COLLECTION",
+            "POSITIVE_FEEDBACK_GREAT_VARIETY"
+          ],
+          "average_overall_rating": {
+            "average_overall_rating": 3.2419354838709675,
+            "rating_count": 62,
+            "month_count": 6
+          },
+          "favorite_count": 0
+        },
+        "display_name": "FEBO - Amsterdam - Galileiplantsoen (Snackpakket)",
+        "pickup_interval": {
+          "start": "2023-10-06T14:00:00Z",
+          "end": "2023-10-06T19:00:00Z"
+        },
+        "pickup_location": {
+          "address": {
+            "country": {
+              "iso_code": "NL",
+              "name": "Netherlands"
+            },
+            "address_line": "Galileïplantsoen 46, 1098 NB Amsterdam, Nederland",
+            "city": "",
+            "postal_code": ""
+          },
+          "location": {
+            "longitude": 4.9399303,
+            "latitude": 52.3534878
+          }
+        },
+        "purchase_end": "2023-10-06T19:00:00Z",
+        "items_available": 1,
+        "distance": 5839.685231006115,
+        "favorite": true,
+        "in_sales_window": true,
+        "new_item": false,
+        "item_type": "MAGIC_BAG",
+        "matches_filters": true
+      }
+    ],
+    "milestones": [
+      {
+        "type": "MONTHS_ON_PLATFORM",
+        "value": "6"
+      },
+      {
+        "type": "MEALS_SAVED",
+        "value": "100"
+      }
+    ],
+    "we_care": false,
+    "distance": 5839.685231006115,
+    "cover_picture": {
+      "picture_id": "981453",
+      "current_url": "https://images.tgtg.ninja/itembulkimport/cover/124734/76fcb6e2-4704-489f-9b45-34c122b41f77.png",
+      "is_automatically_created": false
+    },
+    "is_manufacturer": false
+  },
+  "display_name": "FEBO - Amsterdam - Galileiplantsoen (Snackpakket)",
+  "pickup_interval": {
+    "start": "2023-10-06T14:00:00Z",
+    "end": "2023-10-06T19:00:00Z"
+  },
+  "pickup_location": {
+    "address": {
+      "country": {
+        "iso_code": "NL",
+        "name": "Netherlands"
+      },
+      "address_line": "Galileïplantsoen 46, 1098 NB Amsterdam, Nederland",
+      "city": "",
+      "postal_code": ""
+    },
+    "location": {
+      "longitude": 4.9399303,
+      "latitude": 52.3534878
+    }
+  },
+  "purchase_end": "2023-10-06T19:00:00Z",
+  "items_available": 1,
+  "distance": 5839.685231006115,
+  "favorite": true,
+  "in_sales_window": true,
+  "new_item": false,
+  "sharing_url": "https://share.toogoodtogo.com/download?locale=en-GB",
+  "next_sales_window_purchase_start": "2023-10-06T19:18:54Z",
+  "item_type": "MAGIC_BAG"
+}
