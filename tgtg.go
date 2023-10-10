@@ -25,10 +25,10 @@ type Client struct {
 }
 
 type Credentials struct {
-	accessToken  string
-	refreshToken string
-	cookie       string
-	userId       string
+	AccessToken  string
+	RefreshToken string
+	Cookie       string
+	UserId       string
 }
 
 const (
@@ -102,10 +102,10 @@ func New(client *http.Client, opts ...ClientOption) *Client {
 
 func (c *Client) GetCredentials() *Credentials {
 	return &Credentials{
-		accessToken:  c.accessToken,
-		refreshToken: c.refreshToken,
-		cookie:       c.cookie,
-		userId:       c.userId,
+		AccessToken:  c.accessToken,
+		RefreshToken: c.refreshToken,
+		Cookie:       c.cookie,
+		UserId:       c.userId,
 	}
 }
 
