@@ -24,6 +24,13 @@ type Client struct {
 	verbose      bool
 }
 
+type Credentials struct {
+	accessToken  string
+	refreshToken string
+	cookie       string
+	userId       string
+}
+
 const (
 	BaseUrl         = "https://apptoogoodtogo.com/api/"
 	DeviceType      = "ANDROID"
@@ -93,8 +100,13 @@ func New(client *http.Client, opts ...ClientOption) *Client {
 	return c
 }
 
-func (c *Client) GetCredentials() (accessToken string, refreshToken string, cookie string) {
-	return c.accessToken, c.refreshToken, c.cookie
+func (c *Client) GetCredentials() *Credentials {
+	return &Credentials{
+		accessToken:  c.accessToken,
+		refreshToken: c.refreshToken,
+		cookie:       c.cookie,
+		userId:       c.userId,
+	}
 }
 
 // Logout assuming there is a valid session this endpoint will request the termination of the session and
